@@ -20,4 +20,7 @@ Our project aims to help practice social distancing in MTC buses by installation
 # Demo video
 Here's the link to our Youtube demo video "https://www.youtube.com/embed/6V3EolTyQBI"
 # The Architecture
-
+![Architecture](https://user-images.githubusercontent.com/50652495/95010349-3add6f80-0646-11eb-8ea2-efe51926f882.jpeg)
+# Long description
+A detailed picture of our project can be view in the SAFE COMMUTE ppt uploaded in the repository
+# Project roadmap
