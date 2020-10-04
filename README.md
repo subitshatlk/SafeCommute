@@ -1,15 +1,16 @@
 # SafeCommute
 The github repository for our Callforcode 2020 submissions.
-# Contents
- 1. Short description
+# Contents 
+1.Short description
 
- 2.Demo video
- 
- 3.The architecture
+2.Demo video
 
- 4.Long description
+3.The architecture
 
- 5.Project Roadmap
+4.Long description
+
+5.Project Roadmap
+
 # Short Description
 Going back to work, schools, colleges, or anywhere of that sort is to return anytime soon and we need to be prepared, we need to focus on transportation to these locations with safety and preventive measures and not be vulnerable to become potential carriers to the respective locations.
 
