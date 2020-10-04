@@ -24,3 +24,5 @@ Here's the link to our Youtube demo video "https://www.youtube.com/embed/6V3EolT
 # Long description
 A detailed picture of our project can be view in the SAFE COMMUTE ppt uploaded in the repository
 # Project roadmap
+![roadmap](https://user-images.githubusercontent.com/50652495/95010389-a1628d80-0646-11eb-851c-f6d16cb9ee84.png)
+
