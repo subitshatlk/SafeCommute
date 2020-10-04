@@ -1,11 +1,15 @@
 # SafeCommute
 The github repository for our Callforcode 2020 submissions.
 # Contents
-1. Short description
-2.Demo video
-3.The architecture
-4.Long description
-5.Project Roadmap
+ 1. Short description
+
+ 2.Demo video
+ 
+ 3.The architecture
+
+ 4.Long description
+
+ 5.Project Roadmap
 # Short Description
 Going back to work, schools, colleges, or anywhere of that sort is to return anytime soon and we need to be prepared, we need to focus on transportation to these locations with safety and preventive measures and not be vulnerable to become potential carriers to the respective locations.
 
@@ -15,3 +19,4 @@ Our project aims to help practice social distancing in MTC buses by installation
 # Demo video
 Here's the link to our Youtube demo video "https://www.youtube.com/embed/6V3EolTyQBI"
 # The Architecture
+
